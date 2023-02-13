@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "**/*.html": "html",
+    "**/templates/**/*.html": "django-html",
+    "**/templates/**/*": "djang-txt",
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+},
+}
